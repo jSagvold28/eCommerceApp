@@ -12,4 +12,12 @@ Image assets are for download later when the image assets are uploaded.
 
 Project files will be added later as they are finished. The project has just been started today. Just about 50 munites ago. (will delete this line later)
 
-No copyright listens on this repository. Just dont 
+No copyright listens on this repository. Just don't steal the intire repository into your own app. My code dosnt like it!
+
+
+--
+
+
+JS
+
+iOS Developer, Softweare Engineer
