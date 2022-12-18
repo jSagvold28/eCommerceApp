@@ -16,7 +16,7 @@ struct MXMaster3s: View {
             Image("item10")
                 .resizable()
                 .aspectRatio(contentMode: .fit)
-               /// .frame(width: 275, height: 325)
+                .frame(width: 385)
                 .blur(radius: 0.00050898)
                 .shadow(radius: 15.35)
                 .cornerRadius(5.5)
