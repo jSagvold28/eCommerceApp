@@ -15,6 +15,13 @@ Project files added.
 No copyright listens on this repository. Just don't steal the intire repository into your own app. My code dosnt like it!
 
 
+---- Bug READ FULL BELOW ----
+
+This bug will have 8x bugs then if ou wait 3-8 seconds all the bugs will go away. Not sure why this is happening (There is a issue on this in the Issues tab)
+
+
+-- Bug description stops ---
+
 --
 
 
